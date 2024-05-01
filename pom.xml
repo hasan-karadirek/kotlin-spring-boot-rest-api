@@ -49,6 +49,13 @@
         
     </exclusions>
 </dependency>
+ <dependency>
+     <groupId>io.mockk</groupId>
+     <artifactId>mockk</artifactId>
+     <version>1.10.4</version>
+     <scope>test</scope>
+ </dependency>
+
 
 	</dependencies>
 
