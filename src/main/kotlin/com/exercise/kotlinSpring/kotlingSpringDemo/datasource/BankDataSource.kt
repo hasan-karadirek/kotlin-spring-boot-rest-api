@@ -1,4 +1,4 @@
-package com.exercise.kotlingSpring.kotlingSpringDemo.datasource
+package com.exercise.kotlinSpring.kotlingSpringDemo.datasource
 
 import com.exercise.kotlinSpring.kotlingSpringDemo.model.Bank
 

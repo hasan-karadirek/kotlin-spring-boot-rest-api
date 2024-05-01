@@ -40,15 +40,7 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-    <groupId>org.springframework.boot</groupId>
-    <artifactId>spring-boot-starter-test</artifactId>
-    <version>3.2.5</version> <!-- This version should match the Spring Boot version you are using -->
-    <scope>test</scope>
-    <exclusions>
-        
-    </exclusions>
-</dependency>
+		
  <dependency>
      <groupId>io.mockk</groupId>
      <artifactId>mockk</artifactId>

@@ -1,4 +1,4 @@
-package com.exercise.kotlingSpring.kotlingSpringDemo.datasource.mock
+package com.exercise.kotlinSpring.kotlingSpringDemo.datasource.mock
 
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.Test

@@ -1,6 +1,6 @@
-package com.exercise.kotlingSpring.kotlingSpringDemo.datasource.mock
+package com.exercise.kotlinSpring.kotlingSpringDemo.datasource.mock
 
-import com.exercise.kotlingSpring.kotlingSpringDemo.datasource.BankDataSource
+import com.exercise.kotlinSpring.kotlingSpringDemo.datasource.BankDataSource
 import com.exercise.kotlinSpring.kotlingSpringDemo.model.Bank
 import org.springframework.stereotype.Repository
 
